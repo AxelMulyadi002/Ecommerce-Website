@@ -1,9 +1,9 @@
 export const images = [
 	{
 		id: 1,
-		source: './src/img/static/products/Cart1.WEBP',
-		hover: './src/img/static/products/Cart1hover.webp',
-		cart: './src/img/static/products/cart1-cart.webp',
+		source: 'src/img/static/products/Cart1.WEBP',
+		hover: 'src/img/static/products/Cart1hover.webp',
+		cart: 'src/img/static/products/cart1-cart.webp',
 		text: 'Black T-shirt with white stripes',
 		Price: '14.90',
 		subText: 'or 7 x$2.13',
