@@ -32,11 +32,7 @@ export const Card = () => {
 						filetredImages.map((type) => (
 							<div key={type.id} className="ease-in duration-300 mt-5">
 								<img
-									src={
-										isHover === type.id
-											? type.hover
-											: '../src/img/static/products/Cart1.webp'
-									}
+									src={isHover === type.id ? type.hover : type.source}
 									alt="gambar"
 									className="card-img-top"
 									onMouseEnter={() => setHover(type.id)}
