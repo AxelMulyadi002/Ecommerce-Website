@@ -21,7 +21,7 @@ export const images = [
 	},
 	{
 		id: 3,
-		source: './src/img/static/products/cart3-src.webp',
+		source: './src/img/static/products/cart3src.webp',
 		hover: './src/img/static/products/cart3-hover.webp',
 		cart: './src/img/static/products/cart3-cart.webp',
 		text: 'Black T-shirt with white stripes',
