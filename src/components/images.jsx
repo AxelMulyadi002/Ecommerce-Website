@@ -1,7 +1,7 @@
 export const images = [
 	{
 		id: 1,
-		source: '../img/static/products/Cart1.webp',
+		source: './src/img/static/products/Cart1.webp',
 		hover: './src/img/static/products/Cart1hover.webp',
 		cart: './src/img/static/products/cart1-cart.webp',
 		text: 'Black T-shirt with white stripes',
